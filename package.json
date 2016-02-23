@@ -1,0 +1,11 @@
+{
+  "name": "time-session-service",
+  "version": "1.0.0",
+  "description": "Time sessions r us.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
