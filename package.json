@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "kerberos": "0.0.18",
+    "koa": "^1.1.2",
+    "koa-json-body": "^4.0.0",
+    "koa-route": "^2.4.2",
+    "mongodb": "^2.1.4",
+    "node-uuid": "^1.4.7",
+    "underscore": "^1.8.3"
+  }
 }
